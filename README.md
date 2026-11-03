@@ -81,10 +81,3 @@
   <a href="https://github.com/sponsors/ropsxninja" target="_blank"><img src="https://img.shields.io/badge/Become%20a%20Sponsor-ea4aaa?style=flat-square&logo=githubsponsors&logoColor=white" alt="Sponsor" /></a>&nbsp;
   <a href="mailto:tuemail@ejemplo.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
-
----
-
-<!-- Estadísticas en Dark / Red Theme -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ropsxninja&background=080B10&border=C11111&stroke=C11111&ring=FF003C&fire=FF003C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF003C&sideLabels=FF003C&dates=8b949e" width="48%" />
-</p>
