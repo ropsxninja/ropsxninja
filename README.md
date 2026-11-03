@@ -87,5 +87,4 @@
 <!-- Estadísticas en Dark / Red Theme -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ropsxninja&background=080B10&border=C11111&stroke=C11111&ring=FF003C&fire=FF003C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF003C&sideLabels=FF003C&dates=8b949e" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ropsxninja&show_icons=true&bg_color=080B10&border_color=C11111&title_color=FF003C&icon_color=FF003C&text_color=FFFFFF" width="48%" />
 </p>
